@@ -4,7 +4,7 @@
 
 ## Descripción
 EuroConversor es una aplicación de escritorio desarrollada en **Java** utilizando el patrón de diseño **MVC (Modelo-Vista-Controlador)**. Permite realizar conversiones de divisas, gestionando diferentes tasas de cambio a través de una interfaz gráfica (Swing).
-
+ 
 Este proyecto fue desarrollado para la asignatura de **Entorno de Usuario (EU)** en la **Universitat de València** en 2021.
 
 ## Características
