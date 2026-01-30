@@ -1,0 +1,5 @@
+# Ignorar configuraciones específicas del usuario de NetBeans
+nbproject/private/
+build/
+nbdist/
+dist/
