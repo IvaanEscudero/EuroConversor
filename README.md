@@ -27,5 +27,3 @@ Este proyecto fue desarrollado para la asignatura de **Entorno de Usuario (EU)**
 * **Lenguaje:** Java
 * **Librerías:** Java Swing (GUI)
 * **IDE:** NetBeans
----
-Desarrollado por [IvaanEscudero](https://github.com/IvaanEscudero)
