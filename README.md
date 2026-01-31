@@ -15,7 +15,7 @@ Este proyecto fue desarrollado para la asignatura de **Entorno de Usuario (EU)**
 
 1.  **Clonar el repositorio:**
     ```bash
-    git clone [https://github.com/IvaanEscudero/EuroConversor.git](https://github.com/IvaanEscudero/EuroConversor.git)
+    git clone https://github.com/IvaanEscudero/EuroConversor.git
     ```
 2.  **Abrir en NetBeans:**
     * Abre NetBeans IDE.
